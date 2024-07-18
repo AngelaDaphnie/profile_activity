@@ -1,16 +1,39 @@
 # my_profile_app
 
-A new Flutter project.
+# Student Profile Flutter Application
+# Overview
+This project is a Flutter application featuring a tabbed interface to display a student's personal information, educational background, skills, interests, and contact details. The app is designed with a cohesive theme, consistent color scheme, typography, and layout structure.
 
-## Getting Started
+# Features
+1. Tabbed Interface:
+Utilizes Flutter's TabBar and TabBarView widgets.
+Contains five tabs: Personal Information, Educational Background, Skills, Interests, and Contact Details.
 
-This project is a starting point for a Flutter application.
+2. Personal Information:
+Displays a clear, recent image.
+Includes details such as name, age, and a brief bio.
 
-A few resources to get you started if this is your first Flutter project:
+3. Educational Background:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lists educational qualifications in reverse chronological order.
+Provides names of institutions, degrees obtained, and years of attendance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Skills:
+Enumerates technical and non-technical skills.
+
+5. Interests:
+Describes professional interests, specializations, and research areas.
+
+6. Contact Details:
+Provides multiple contact methods such as email, phone number, and links to social media profiles or a personal website.
+
+7. Icons:
+Uses Flutter’s Icon widget and material icons library for visual representation in each tab.
+
+
+# Getting Started
+Prerequisites
+Flutter SDK: Install Flutter
+Dart: Install Dart
+IDE: VSCode, Android Studio, or any code editor of your choice.
+Installation
