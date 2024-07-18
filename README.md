@@ -13,9 +13,7 @@ Contains five tabs: Personal Information, Educational Background, Skills, Intere
 Displays a clear, recent image.
 Includes details such as name, age, and a brief bio.
 
-3. Educational Background:
-
-Lists educational qualifications in reverse chronological order.
+3. Educational Background:Lists educational qualifications in reverse chronological order.
 Provides names of institutions, degrees obtained, and years of attendance.
 
 4. Skills:
